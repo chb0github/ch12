@@ -1,0 +1,9 @@
+seaborn
+pandas
+pyreadstat
+openpyxl
+ipykernel
+numpy
+matplotlib
+nbconvert
+

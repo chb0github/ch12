@@ -19,3 +19,4 @@ ENV/
 
 # macOS
 .DS_Store
+*.png
